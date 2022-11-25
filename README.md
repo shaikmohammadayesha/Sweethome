@@ -16,9 +16,11 @@ Project Description : Best Food Quality Is Important To Us Every One Good Health
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : https://wonderful-pebble-09bce0810.2.azurestaticapps.net
+Static Web App URL : https://orange-flower-0565b1e10.2.azurestaticapps.net
 
-App Services URL : https://foodieswebsite.azurewebsites.net/
+App Services URL : https://sweethome.azurewebsites.net
+
+## My Website Link : https://orange-flower-0565b1e10.2.azurestaticapps.net
 
 ## Home
 ![Screenshot 2022-11-25 125941](https://user-images.githubusercontent.com/116542707/203925458-75de904e-bf96-4fb6-baf8-6198bf851c37.jpg)
