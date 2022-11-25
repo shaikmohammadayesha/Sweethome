@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'sweethome'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FC5B757FC8840C79D9B2B3CE0DD1C20 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_015BA9CFD0DB479897D3B054991458D0 }}
           package: .
