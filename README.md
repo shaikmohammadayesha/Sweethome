@@ -1,4 +1,4 @@
-Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure. 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
+Here I can create A Furniture Store Which Can Order Different Furnitures And Learn Categories Of Furnitures Available. Description: 1.Furniture is basically the bones of any room’s design 2.The right furniture can spectacularly transform the available space in any room and add long-lasting beauty to it. 3.We provide you the best furniture that makse interior amazing
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -10,9 +10,9 @@ Industry : Lifestyle
 
 Project Title : Sweethome
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Make a careful assessment of what you need. The more you’re able to understand your needs, the easier for you to find the right     furniture to use.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description :Destined for the world’s most beautiful interiors, Best Furniture Quality. Giving a whole new touch of royalty to your home.
 
 Primary Azure Technology : Static Web Apps, App Service
 
